@@ -2,8 +2,8 @@
 
 Renders and plays music found in your Android device's `Music` directory. 
 
-![home](./images/home.png)
 ![player](./images/player.png)
+![home](./images/home.png)
 
 ## Example directory structure
 
